@@ -1,11 +1,11 @@
 # youBot_from_scratch
 
-This repository offers a detailed description to perform autonomous navigation using a KUKA youBot controlled via an external Laptop. This work was performed at RoboCup@Work Lab in Hochschule Bonn-Rhein-Sieg. 
+This repository offers a detailed description to perform autonomous navigation using a KUKA youBot controlled via an external Laptop. This work was performed at B-it-bots@Work Lab in Hochschule Bonn-Rhein-Sieg. 
 
   
 # Motivation
 
-The intention behind performing this work is to get in-depth knowledge of `How to configure a robot with ROS from scratch`. For this purpose, we have used a **KUKA youBot** and an **external Laptop**. 
+The intention behind performing this work is to get in-depth knowledge of `How to configure a robot with ROS to perform autonomous navigation from scratch`. For this purpose, we have used a **KUKA youBot** and an **external Laptop**. 
 
 # Pre-requisites
 
